@@ -6,7 +6,7 @@ as this blog is dedicated to providing a comprehensive and visually appealing on
 
 ##Azure Link : https://gentle-glacier-0d6f61810.2.azurestaticapps.net/
 
-##Youtube Video for Explaination : https://youtu.be/0x5sMFQgz1Y
+##Youtube Video for Explanation purposes : https://youtu.be/0x5sMFQgz1Y
 
 ##Home Page
 
