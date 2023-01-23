@@ -6,6 +6,7 @@ as this blog is dedicated to providing a comprehensive and visually appealing on
 Azure Technologies Used
 
 1)Azure Healthbot
+
 2)Azure Static Web App
 
 
