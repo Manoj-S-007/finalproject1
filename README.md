@@ -3,6 +3,11 @@ This is the repository for Microsoft Future Ready Talent program
 I have created a 'Fashion Blog' with a tagline 'Lets Make a Life Style' which stands out beautifully for the younger generation
 as this blog is dedicated to providing a comprehensive and visually appealing online destination for fashion enthusiasts of all tastes and styles.
 
+Azure Technologies Used
+
+1)Azure Healthbot
+2)Azure Static Web App
+
 
 ##Azure Link : https://gentle-glacier-0d6f61810.2.azurestaticapps.net/
 
